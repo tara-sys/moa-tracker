@@ -11,9 +11,9 @@ export const STUDENTS = [
 ];
 
 export const STATUS_OPTIONS = [
-  { code: 'P',  label: 'Presented',  color: '#854F0B', bg: '#FAEEDA' },
-  { code: 'Pr', label: 'Practicing', color: '#0F6E56', bg: '#E1F5EE' },
-  { code: 'M',  label: 'Mastered',   color: '#3B6D11', bg: '#EAF3DE' },
+  { code: 'P',  label: '/',  color: '#854F0B', bg: '#FAEEDA' },
+  { code: 'Pr', label: '∧', color: '#0F6E56', bg: '#E1F5EE' },
+  { code: 'M',  label: '△', color: '#3B6D11', bg: '#EAF3DE' },
 ];
 
 export const SECTIONS = {
